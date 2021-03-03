@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Linh Nguyen
+ * @author Hoang
  */
 public class ProductMenu {
     public static void main(String[] args) {

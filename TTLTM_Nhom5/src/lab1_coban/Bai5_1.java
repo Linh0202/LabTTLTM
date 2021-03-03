@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Linh Nguyen
+ * @author Hoang
  *
  */
 class Bai5 {

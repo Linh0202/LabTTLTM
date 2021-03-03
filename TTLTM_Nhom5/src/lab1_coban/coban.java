@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Linh Nguyen
+ * @author Hoang
  */
 public class coban {
 

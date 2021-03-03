@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Linh Nguyen
+ * @author Hoang
  */
 public class bai4 {
     public static void main(String[] args) {
