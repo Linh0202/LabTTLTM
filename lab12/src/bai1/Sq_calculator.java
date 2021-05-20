@@ -4,13 +4,14 @@
  * and open the template in the editor.
  */
 package bai1;
-
+import java.rmi.server.UnicastRemoteObject;
+import java.rmi.RemoteException;
+import java.rmi.registry.Registry;
+import java.rmi.registry.LocateRegistry;
 /**
  *
  * @author linhn
  */
-import java.rmi.RemoteException;
-import java.rmi.server.UnicastRemoteObject;
 
 public class Sq_calculator extends UnicastRemoteObject implements Calculator {
 // Khai báo phương thức khởi tạo
